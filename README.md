@@ -1,1 +1,1 @@
-# Education-Level-Predictor-of-Electoral-Candidates
+# Education Level Predictor of Electoral Candidates
